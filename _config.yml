@@ -23,12 +23,8 @@ email: mail@mail.org
 description: >- # this means to ignore newlines until "baseurl:"
   tech at heart
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
-
-
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/high-tech" # the subpath of your site, e.g. /blog
+url: "https://high-tech.github.io/high-tech/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 
